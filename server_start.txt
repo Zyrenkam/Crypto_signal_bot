@@ -1,5 +1,5 @@
-Логин: root
-Пароль: PvtY4RXAghvsE2Zh
+Логин: login
+Пароль: pass
 source myenv/bin/activate
 nohup python3 main_bot.py
 
