@@ -1,0 +1,4 @@
+deposit - 9262.0
+risk - 0.44
+leverage - 5
+TP/SL - 1.2:1
